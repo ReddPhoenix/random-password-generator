@@ -1,15 +1,22 @@
-# password-generator
+# random-password-generator
 
 ## Link
-Link to live site: [Responsive Portfolio](https://reddphoenix.github.io/responsive-portfolio/)
+Link to live site: [Random Password Generator]()
 
 ## Screenshot of live website
 
-![Website Screenshot](https://github.com/ReddPhoenix/responsive-portfolio/blob/master/assets/live-website-screenshot.png?raw=true)
+![Website Screenshot]()
 
 ## Project Overview
 
-Responsive website developed for Walter Guerrero to reflect experience, projects, and contact information. Developed using Bootstrap code. 
+Website that creates a random password based on user-specified criteria. Data supplied by user is validated to match password requirements.  User provides the following:
+
+* Character length between 8-128 characters (required)
+* User must choose at least one of the following character types:
+    * lowercase characters
+    * uppercase characters
+    * number characters
+    * special characters
 
 ## Contact Information
 
@@ -19,11 +26,12 @@ Responsive website developed for Walter Guerrero to reflect experience, projects
 
 ## Credits
 
-* https://getbootstrap.com
-* https://bootsnipp.com
+* Katie Sexton (Offline Repository Upload)
+* Mason Short (Character validation)
+* Chris Sannar (Character type string creation)
 * https://w3docs.com
 * https://w3schools.com
-* https://csshint.com
+* https://developer.mozilla.org
 
 ## License
 
@@ -48,4 +56,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-# random-password-generator
+
