@@ -1,11 +1,11 @@
 # random-password-generator
 
 ## Link
-Link to live site: [Random Password Generator]()
+Link to live site: [Random Password Generator](https://reddphoenix.github.io/random-password-generator/)
 
 ## Screenshot of live website
 
-![Website Screenshot]()
+![Website Screenshot](https://github.com/ReddPhoenix/random-password-generator/blob/master/assets/images/live-website-screenshot.png?raw=true)
 
 ## Project Overview
 
